@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
   <head>
     <meta charset="utf-8" />
   </head>
@@ -37,4 +37,3 @@
         the resources provided (especially the issues page). </li>
     </p>
   </body>
-</html>
